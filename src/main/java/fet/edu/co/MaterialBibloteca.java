@@ -30,7 +30,7 @@ public class MaterialBibloteca {
         return año;
     }
 
-    public void setAño(int año) {
+    public void setAño(int Año) {
         this.año = año;
     }
 public String obtenerInformacionDetitulo(){return "el titulo es "; }
